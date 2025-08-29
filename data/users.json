@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "rajat_bhoriya123",
+      "email": "rajatbhoriya98138@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "username": "abc",
+      "email": "rajatbhoriya98138@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    }
+  ]
+}
